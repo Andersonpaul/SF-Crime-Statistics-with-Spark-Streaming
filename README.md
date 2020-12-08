@@ -9,4 +9,4 @@ Question: What were the 2-3 most efficient SparkSession property key/value pairs
 
 Possible properties: spark.default.parallelism, spark.streaming.kafka.maxRatePerPartition
 
-We may check results in Spark Progress Report (inputRowsPerSecond or processedRowsPerSecond) or in Spark UI Streaming page (Min, Median and Max rate of records/second).
+Results can be seen in Spark Progress Report (inputRowsPerSecond or processedRowsPerSecond) or in Spark UI Streaming page (Min, Median and Max rate of records/second).
