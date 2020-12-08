@@ -1,4 +1,4 @@
-# SF-Crime-Statistice-with-Spark-Streaming
+# SF-Crime-Statistics-with-Spark-Streaming
 This repository contains the project artefacts for the Nano-Degree Programme in Data Streaming by Udacity
 
 Question: How did changing values on the SparkSession property parameters affect the throughput and latency of the data?
